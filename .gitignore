@@ -1,0 +1,42 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# NuGet Packages
+*.nuget.cache
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+*.log
+TestResults/
+
+# Resharper
+_resharper*/ 
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# StyleCop
+*.StyleCop
+
+# Files
+*~
+*.bak
+*.bak.*
+*.swp
+*.tmp
+*.[Cc]ache
+*.DS_Store
